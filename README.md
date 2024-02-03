@@ -3,8 +3,8 @@
 
 ## Description
 In this challenge, I was assigned the task of creating a model that looks at credit risk in lending. It is important for companies to minimize risk in their lending deals, so having a reliable model to run enables the companies to make data driven financial decisions. I recommend using this model because of its accuracy & precision.
-
-The logistic regression model, fit with oversampled data, demonstrates high performance in predicting both the 0 (healthy loan) and 1 (high-risk loan) labels. Here's a breakdown:
+Markup : ```javascript
+         ```The logistic regression model, fit with oversampled data, demonstrates high performance in predicting both the 0 (healthy loan) and 1 (high-risk loan) labels. Here's a breakdown:
 -For label ‘0’ (healthy loan):
 Precision, Recall, and F1-score are all very high, indicating that the model accurately predicts healthy loans. The precision is 1.00, meaning that all predicted healthy loans are indeed healthy, and the recall is 1.00, meaning that the model captures almost all actual healthy loans.
 -For label ‘1’ (high-risk loan):
