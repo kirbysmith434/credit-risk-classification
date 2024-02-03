@@ -2,7 +2,7 @@
 #### Classification in Lending: Healthy Loans Vs. High Risk Loans
 
 ## Description
-In this challenge, I was assigned the task of creating a model that looks at credit risk in lending. It is important for companies to minimize risk in their lending deals, so having a reliable model to run enables the companies to make data driven financial decisions.
+In this challenge, I was assigned the task of creating a model that looks at credit risk in lending. It is important for companies to minimize risk in their lending deals, so having a reliable model to run enables the companies to make data driven financial decisions. I recommend using this model because of its accuracy & precision.
 
 The logistic regression model, fit with oversampled data, demonstrates high performance in predicting both the 0 (healthy loan) and 1 (high-risk loan) labels. Here's a breakdown:
 For label ‘0’ (healthy loan):
